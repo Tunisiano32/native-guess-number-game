@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "native-guess-number-game",
-    "slug": "native-guess-number-game",
+    "name": "react-native-guess-game",
+    "slug": "react-native-guess-game",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
